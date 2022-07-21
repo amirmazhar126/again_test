@@ -14,7 +14,7 @@ elif opp.lower()=="sub":
 
 else:
     print("operation not defined. Please select addition.")
-    print('Subtraction work in progress.')   
+    print('Subtraction work done.')   
    
     
 
