@@ -9,7 +9,7 @@ if opp.lower()=="add":
     print('The sum is ', result)
 
 else:
-    print("operation not defined")    
+    print("operation not defined. Please select addition")    
     
 
 
